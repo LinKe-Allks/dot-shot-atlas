@@ -1,0 +1,307 @@
+{
+  "format_version": 1,
+  "description": "Public-safe static Shot Atlas export. Manifest excludes itself.",
+  "file_count": 60,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 139,
+      "sha256": "31f4018df8e2c528e05b2c78b10ae209321ee87319bedbc8d6690f04c640fe59"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2446,
+      "sha256": "01f0479e65ba6e1343c9aab86bf5c74250f6f9ea4a775a901cc0556ad59a0b47"
+    },
+    {
+      "path": "app.js",
+      "bytes": 12384,
+      "sha256": "0d735b13ec458c19eb7da3bb3ebc1c16da0cebc49eaac18b378cac534ca80c96"
+    },
+    {
+      "path": "assets/blender-sources.zip",
+      "bytes": 1050550,
+      "sha256": "35a3f4297b4e21b6e39656847f830b027392bb8fd626b2b61f0d8e69220cd75a"
+    },
+    {
+      "path": "assets/diagrams/01.svg",
+      "bytes": 2494,
+      "sha256": "0ee616b9807912f4aa6d6a4993bb8e6070e4cc4d548dd0c05a4b885b847b2875"
+    },
+    {
+      "path": "assets/diagrams/02.svg",
+      "bytes": 2722,
+      "sha256": "8eafbbb0c3228011aa3d541da4c8d8ecfe01af1929351877e603ef2b150ffdb3"
+    },
+    {
+      "path": "assets/diagrams/03.svg",
+      "bytes": 2193,
+      "sha256": "4983ecde729c4c1af3ef06232c7091cffc02157d333244a42172bc2b796b39db"
+    },
+    {
+      "path": "assets/diagrams/04.svg",
+      "bytes": 1955,
+      "sha256": "e33a57b8125535f43f7f016e36d9630047d3f7b33f68696ad957bd86648696c2"
+    },
+    {
+      "path": "assets/diagrams/05.svg",
+      "bytes": 2189,
+      "sha256": "04c30e0b99b46b7b8e7c3e849a6f0fcbad94eadf8b04bdf2234e2bb4775350fd"
+    },
+    {
+      "path": "assets/diagrams/06.svg",
+      "bytes": 2579,
+      "sha256": "afe307d66080aaeaa31ff9380adf7650081b2ce19cd5b1c21d8408ce7fa3f95f"
+    },
+    {
+      "path": "assets/diagrams/07.svg",
+      "bytes": 2687,
+      "sha256": "db936bdc1b1958e0d5f8e71fed97586a297804b30438dd06515fefa4b6d1e657"
+    },
+    {
+      "path": "assets/diagrams/08.svg",
+      "bytes": 2698,
+      "sha256": "6ee56a7c597485127906e681c456268c0e8adc80e019e74f1d60f17d4718e9af"
+    },
+    {
+      "path": "assets/diagrams/09.svg",
+      "bytes": 2375,
+      "sha256": "23f504a883a32d2ee61d4e4700ea298363c8ea85852561432576fa4f36daab0f"
+    },
+    {
+      "path": "assets/diagrams/10.svg",
+      "bytes": 2629,
+      "sha256": "812e5d984da9e9de38d8897fbeba1abdbaf56f19860a3e59feae35d47ec3c83c"
+    },
+    {
+      "path": "assets/diagrams/11.svg",
+      "bytes": 3435,
+      "sha256": "d3b0ad8cb8a99f9fc06be77d09056a0e9fca23e672b3af4f2f4a15620b0dfe9b"
+    },
+    {
+      "path": "assets/diagrams/12.svg",
+      "bytes": 3802,
+      "sha256": "447010f0187730e62d7ca8a44a2ddc200cd43534d0b6050c28c76a377e1cfbb7"
+    },
+    {
+      "path": "assets/diagrams/13.svg",
+      "bytes": 2945,
+      "sha256": "bcef4208cc98d267001efbda6e107020c98a4b83c7459a25aeeb54a1d4c296bb"
+    },
+    {
+      "path": "assets/diagrams/14.svg",
+      "bytes": 2795,
+      "sha256": "e03a6f2f10ed8e48048727b163a0a1580c788e5fd26da4e1688d6a6c3f64a03f"
+    },
+    {
+      "path": "assets/diagrams/15.svg",
+      "bytes": 2992,
+      "sha256": "6f4a0d7ccd2065a37455be9b2c0fdd6969c41265c0c4aa03709c6838ca346946"
+    },
+    {
+      "path": "assets/diagrams/16.svg",
+      "bytes": 3477,
+      "sha256": "7f8e03f531c3b9b196fe3df80a03cc1da84ab5aa810578343b27e94004a72587"
+    },
+    {
+      "path": "assets/diagrams/17.svg",
+      "bytes": 3352,
+      "sha256": "8bb6c525e679c3cb87248c2bc08f2d1296f2b9f9f204d5ef933f02ea85723d61"
+    },
+    {
+      "path": "assets/diagrams/18.svg",
+      "bytes": 3512,
+      "sha256": "ac4ec45e7baefd6eb6c1f9cfbe78ac4b0acf784c168d2b37894abd51a23696fa"
+    },
+    {
+      "path": "assets/diagrams/19.svg",
+      "bytes": 2850,
+      "sha256": "e55f4fa17f87e0c605acb8b1431d7ae4a77da6416be075244ab6148551a7de3a"
+    },
+    {
+      "path": "assets/diagrams/20.svg",
+      "bytes": 3382,
+      "sha256": "914e5b57dcdae808ba5e311483ab2cbb8ad4abc2a6fc1e41f931f0c0edd50395"
+    },
+    {
+      "path": "assets/diagrams/21.svg",
+      "bytes": 3000,
+      "sha256": "3413a4f9ea6de4d7254d408b91fed7216aa95361b199d14b52d275a7043218a8"
+    },
+    {
+      "path": "assets/diagrams/22.svg",
+      "bytes": 2475,
+      "sha256": "d1948f7af410718c22f251f9db36b154ce40c1278531eb060463be669f56f26d"
+    },
+    {
+      "path": "assets/diagrams/23.svg",
+      "bytes": 3281,
+      "sha256": "f3e83e4b4dede67be5e4fc1b070b967aeb0cc79fc3bd79dcb8dee486d8130991"
+    },
+    {
+      "path": "assets/diagrams/24.svg",
+      "bytes": 4041,
+      "sha256": "308c4043f1e5765f27873d53eb36c6cbe54d862a3a749c3bca1257c7d074773c"
+    },
+    {
+      "path": "assets/motion/crane-reveal.jpg",
+      "bytes": 37932,
+      "sha256": "68b888fa34f5fd1889b7eed99365abeec955c58752234dc0ac633c8db456659b"
+    },
+    {
+      "path": "assets/motion/crane-reveal.mp4",
+      "bytes": 197685,
+      "sha256": "dea53e1afb82b0cb2885dfabd70e426c4c6a2b9889261c836f34d72c111610ac"
+    },
+    {
+      "path": "assets/motion/dolly-in.jpg",
+      "bytes": 36240,
+      "sha256": "9d95f5fa4c9eec090bbff362c56da8f4a975b365d695122c7fe1f2ec00e65b8e"
+    },
+    {
+      "path": "assets/motion/dolly-in.mp4",
+      "bytes": 165507,
+      "sha256": "3c1e9225da3fc33c0dd7308c51abb57e3160765b9d9592f5d4ac844e8fb45944"
+    },
+    {
+      "path": "assets/motion/dolly-out.jpg",
+      "bytes": 36924,
+      "sha256": "ed79e83deebe71901bd9463bdbad97bca494fee605426ad587a52c02505114b9"
+    },
+    {
+      "path": "assets/motion/dolly-out.mp4",
+      "bytes": 168547,
+      "sha256": "8e50ac1b4027c48ed81fca49b07b543de64f5a92be050bdd65c491f838da78b2"
+    },
+    {
+      "path": "assets/motion/orbit.jpg",
+      "bytes": 38119,
+      "sha256": "d44afb8d2d7a06747306c9b4349c7615c7807065e9a5fecaafbdbceef2202ab4"
+    },
+    {
+      "path": "assets/motion/orbit.mp4",
+      "bytes": 303613,
+      "sha256": "9e05079c70e03300a5765bce702deea4d23dca3836495f1d2708371f18169970"
+    },
+    {
+      "path": "assets/motion/pan.jpg",
+      "bytes": 36696,
+      "sha256": "4f5c322e2e430a78bc2e630818d7016fc4c2f3ae553eed06067620d014141c0f"
+    },
+    {
+      "path": "assets/motion/pan.mp4",
+      "bytes": 167984,
+      "sha256": "42a9e6f6e07ab2d4cfce9fd42973ce8501bd5a2d9a517c9ae574bcb86a4b2ea0"
+    },
+    {
+      "path": "assets/motion/truck.jpg",
+      "bytes": 36138,
+      "sha256": "34c2a8c4e46ba5565186e9a53ac842f6dc66fb18053921171c980a2ca33680bc"
+    },
+    {
+      "path": "assets/motion/truck.mp4",
+      "bytes": 153327,
+      "sha256": "679d9ee3355fe4799f20bf79839f5963ad3c21e4d1ab22bdda2049a4454a6d10"
+    },
+    {
+      "path": "assets/motion/zoom.jpg",
+      "bytes": 35416,
+      "sha256": "085da177d2649b5351c99b14538d49ef368f555f582d8fa8782f815930358862"
+    },
+    {
+      "path": "assets/motion/zoom.mp4",
+      "bytes": 164160,
+      "sha256": "d265b14135e01dd9e7d06a89a2a7c0e50dbadd562168f6b10c82318190c73bb3"
+    },
+    {
+      "path": "blender/README.md",
+      "bytes": 2696,
+      "sha256": "ba7d29b7ff400710915f0665dac297a4789af7fa5bdfbc1c1fe3f88efb1bf800"
+    },
+    {
+      "path": "blender/crane-reveal.blend",
+      "bytes": 801848,
+      "sha256": "108b0cd91503bde2187de622316d2d6bcc84cd68bcb77e5bf3566d5b8b9ad29c"
+    },
+    {
+      "path": "blender/dolly-in.blend",
+      "bytes": 801848,
+      "sha256": "37afc0599345a0fc8c5a361bff839fb419c286c88d190ed176373c0e6f8f2916"
+    },
+    {
+      "path": "blender/dolly-out.blend",
+      "bytes": 801848,
+      "sha256": "3fcb85626959f58237f4b3f1d21430a27dd84f960982957cdced4e3ef009a039"
+    },
+    {
+      "path": "blender/manifest.json",
+      "bytes": 3342,
+      "sha256": "11d892ebe16709909a1319d70297799b822358172c1d6ffa3df9c0f45f8f9362"
+    },
+    {
+      "path": "blender/orbit.blend",
+      "bytes": 801848,
+      "sha256": "a17408ba275cf79fdf15ededf635708e428fc7a771131bec39111fa96c43edf8"
+    },
+    {
+      "path": "blender/pan.blend",
+      "bytes": 801848,
+      "sha256": "fcc291e385887c472c7b318b5e230e1165adccd44f13c7572a47284ac7cbb601"
+    },
+    {
+      "path": "blender/render_all.sh",
+      "bytes": 578,
+      "sha256": "d10faae6d2bfb23a05afa1759c03a488b242c2b306c3d5243fd0e49be8e9088c"
+    },
+    {
+      "path": "blender/render_camera_library.py",
+      "bytes": 6591,
+      "sha256": "03bd5705e6ef8cc3a1fe26e9fbd08f55577fd91feb0a49a9686ea7d733b07dd6"
+    },
+    {
+      "path": "blender/truck.blend",
+      "bytes": 801848,
+      "sha256": "0c228f52efed7388f91ff2cce8f66270f7c501c2b15cc8c999ee570ee1d26a25"
+    },
+    {
+      "path": "blender/zoom.blend",
+      "bytes": 801848,
+      "sha256": "61a544dcf51270f40c0803b77555997e64053c2d1bdf30bd335c28a6c6600ca8"
+    },
+    {
+      "path": "catalog.js",
+      "bytes": 38982,
+      "sha256": "4eef93dd9317d02048a42ed81ec50db3c26ac3449ea70eb4bb97c894c4a3a700"
+    },
+    {
+      "path": "docs/SOURCES.md",
+      "bytes": 1640,
+      "sha256": "3d3118569b940512f0164ab1950104dc7b9c1f5a1c0cc9702cee5198e5afb4d8"
+    },
+    {
+      "path": "docs/VERIFICATION.md",
+      "bytes": 921,
+      "sha256": "8665dabb9c1848050f8c33254b7e71f6f44e779c6eec42a153e76d2deaff1e8b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6254,
+      "sha256": "0632d59cf344a68c0471ef844c4615935e44d60adc5c7fba4a01a114fd44a600"
+    },
+    {
+      "path": "scripts/check.py",
+      "bytes": 1783,
+      "sha256": "50af7c7c93db0a9432175b7ca63318d5aba56954c60eba00e77e10182a6c996e"
+    },
+    {
+      "path": "style.css",
+      "bytes": 20716,
+      "sha256": "182333f6a1369f79935d45cabb16561ce73638aa30bc36e8245f18d45073696c"
+    },
+    {
+      "path": "tests/ui-behavior.test.cjs",
+      "bytes": 6496,
+      "sha256": "a7ad0124a5bbb8c1f009aa4b043c184dead174195df22b531318d5b60c7227ca"
+    }
+  ]
+}

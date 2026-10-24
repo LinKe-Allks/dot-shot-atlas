@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+*.log
+*.blend1
+.env
+.env.*
+.openai/
+node_modules/
+blender/*/frame_*.png
+blender/*.mp4
+blender/*.png
